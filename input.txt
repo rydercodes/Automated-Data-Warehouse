@@ -1,0 +1,22 @@
+4
+transactions
+4
+sales
+product
+shop
+day
+time
+3
+day
+month
+year
+product
+2
+product
+category
+location
+3
+shop
+city
+region
+sales, region, month
